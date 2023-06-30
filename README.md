@@ -7,7 +7,7 @@ However, the Fashion MNIST contains 70000 images of clothing making it harder fo
 
 The training set contains 60000 images and the testing set contains 10000 images. Each example is a 28x28 grayscale image associated from one of the ten classes below:
 
-0 T-shirt/top
+0 T-shirt/top <br>
 1 Trouser
 2 Pullover
 3 Dress
