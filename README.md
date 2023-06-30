@@ -3,7 +3,7 @@ Welcome! This is where you will find different Python scripts (code) for the Fas
 
 The originial MNIST dataset became overused due to many models achieving 99% accuracy with a simple acrhitecture and lack of noise in the training/testing samples.
 
-However, the Fashion MNIST contains 70000 images of clothing making it harder for the model to perform well (like MNIST) on the testing data.
+However, the Fashion MNIST contains 70000 images of clothing making it harder for the model to perform well on the testing data.
 
 The training set contains 60000 images and the testing set contains 10000 images. Each example is a 28x28 grayscale image associated from one of the ten classes below:
 
