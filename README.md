@@ -19,7 +19,11 @@ The training set contains 60000 images and the testing set contains 10000 images
 9 Ankle boot <br>
 
 
-![Plot-of-a-Subset-of-Images-from-the-Fashion-MNIST-Dataset-1024x768](https://github.com/sbal06/Fashion-MNIST/assets/101956177/019424d0-c197-4c04-9ed8-446ad9acf09e)
+![Plot-of-a-Subset-of-Images-from-the-Fashion-MNIST-Dataset-1024x768](https://github.com/sbal06/Fashion-MNIST/assets/101956177/019424d0-c197-4c04-9ed8-446ad9acf09e) <br>
+
+
+# Results
+
 
 
 
