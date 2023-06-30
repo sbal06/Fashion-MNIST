@@ -8,15 +8,15 @@ However, the Fashion MNIST contains 70000 images of clothing making it harder fo
 The training set contains 60000 images and the testing set contains 10000 images. Each example is a 28x28 grayscale image associated from one of the ten classes below:
 
 0 T-shirt/top <br>
-1 Trouser
-2 Pullover
-3 Dress
-4 Coat
-5 Sandal
-6 Shirt
-7 Sneaker
-8 Bag
-9 Ankle boot
+1 Trouser <br>
+2 Pullover <br>
+3 Dress <br>
+4 Coat <br>
+5 Sandal <br>
+6 Shirt <br>
+7 Sneaker <br>
+8 Bag <br>
+9 Ankle boot <br>
 
 
 ![Plot-of-a-Subset-of-Images-from-the-Fashion-MNIST-Dataset-1024x768](https://github.com/sbal06/Fashion-MNIST/assets/101956177/019424d0-c197-4c04-9ed8-446ad9acf09e)
