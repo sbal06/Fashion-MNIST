@@ -31,7 +31,7 @@ Logistic Regression, K-Nearest Neighbors, Random Forests on the fashion MNIST im
 
 ### Convolutional Neural Network
 A convolutional neural network on the fashion MNIST images.
-- (Tensorflow Convolutional Neural Network)[https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb] <br>
+- [Tensorflow Convolutional Neural Network](https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb) <br>
 
 
 
