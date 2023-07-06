@@ -1,5 +1,5 @@
 # Description
-Welcome! This is where you will find different Python scripts (code) for the Fashion MNIST dataset, which can be viewed here (https://www.tensorflow.org/datasets/catalog/fashion_mnist) . Fashion-MNIST serves as a replacement for the original MNIST dataset, which was released in 1999 (https://www.kaggle.com/datasets/avnishnish/mnist-original).
+Welcome! This is where you will find different Python scripts (code) for the Fashion MNIST dataset. The Fashion-MNIST dataset is a collection of images depicting different types of clothing items. You can learn more about the fashion MNIST dataset [here](https://www.tensorflow.org/datasets/catalog/fashion_mnist). serves as a replacement for the original MNIST dataset, which was released in 1999 (https://www.kaggle.com/datasets/avnishnish/mnist-original).
 
 The originial MNIST dataset became overused due to many models achieving 99% accuracy with a simple acrhitecture and lack of noise in the training/testing samples.
 
