@@ -37,7 +37,7 @@ A convolutional neural network on the fashion MNIST images.
 
 ## Dependencies
 ### Python distribution
-(*): (Anaconda)[https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond]
+- (Anaconda)[https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond]
 ### Jupyter Notebook or Google Coloboratory
 (*): [numpy](https://numpy.org/): conda install numpy
 (*): [sklearn](https://scikit-learn.org/stable/) conda install skikit-learn
