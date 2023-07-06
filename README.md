@@ -25,29 +25,30 @@ The goal is to identify the correct clothing in the image.
 ## Notebooks
 
 ### Other Classification Algorithms (Logistic Regression, KNN, Random Forests)
-Logistic Regression, K-Nearest Neighbors, Random Forests on the fashion MNIST images.
+Logistic Regression, K-Nearest Neighbors, Random Forests on the fashion MNIST images. <br>
 
 ### Feedforward Neural Network
 
 ### Convolutional Neural Network
 A convolutional neural network on the fashion MNIST images.
-(*): (Tensorflow Convolutional Neural Network)[https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb]
+- (Tensorflow Convolutional Neural Network)[https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb] <br>
 
 
 
 ## Dependencies
 ### Python distribution
-- (Anaconda)[https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond]
+- [Anaconda](https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond)
 ### Jupyter Notebook or Google Coloboratory
-(*): [numpy](https://numpy.org/): conda install numpy
-(*): [sklearn](https://scikit-learn.org/stable/) conda install skikit-learn
-(*): [matplotlib](https://matplotlib.org/) conda install matplotlib
-(*): [seaborn](https://seaborn.pydata.org/]) conda install seaborn
+- [numpy](https://numpy.org/): conda install numpy <br>
+-  [sklearn](https://scikit-learn.org/stable/) conda install skikit-learn <br>
+- [matplotlib](https://matplotlib.org/) conda install matplotlib <br>
+- [seaborn](https://seaborn.pydata.org/]) conda install seaborn <br>
 #### Make sure the Python and Numpy versions are compatible in Jupyter notebook.
+
 ### For deep learning models
-For more information, [watch](https://www.youtube.com/watch?v=CrEl8QL8hsM)
-(*): [Tensorflow](https://www.tensorflow.org/) conda install tensorflow -gpu
-(*): [Keras](https://keras.io/) 
+For more information, [watch](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
+- [Tensorflow](https://www.tensorflow.org/) conda install tensorflow -gpu <br>
+- [Keras](https://keras.io/)  <br>
 
 # Results
 
