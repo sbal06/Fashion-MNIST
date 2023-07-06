@@ -39,15 +39,15 @@ A convolutional neural network on the fashion MNIST images.
 ### Python distribution
 (*): (Anaconda)[https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond]
 ### Jupyter Notebook or Google Coloboratory
-(*): (numpy)[https://numpy.org/]: conda install numpy
-(*): (sklearn)[https://scikit-learn.org/stable/] conda install skikit-learn
-(*): (matplotlib)[https://matplotlib.org/] conda install matplotlib
-(*): seaborn[https://seaborn.pydata.org/] conda install seaborn
+(*): [numpy](https://numpy.org/): conda install numpy
+(*): [sklearn](https://scikit-learn.org/stable/) conda install skikit-learn
+(*): [matplotlib](https://matplotlib.org/) conda install matplotlib
+(*): [seaborn](https://seaborn.pydata.org/]) conda install seaborn
 #### Make sure the Python and Numpy versions are compatible in Jupyter notebook.
-### For deep learning models:
-For more information, (watch)[https://www.youtube.com/watch?v=CrEl8QL8hsM]
-(*): (Tensorflow)[https://www.tensorflow.org/] conda install tensorflow -gpu
-(*): (Keras)[https://keras.io/]
+### For deep learning models
+For more information, [watch](https://www.youtube.com/watch?v=CrEl8QL8hsM)
+(*): [Tensorflow](https://www.tensorflow.org/) conda install tensorflow -gpu
+(*): [Keras](https://keras.io/) 
 
 # Results
 
