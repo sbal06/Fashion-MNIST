@@ -24,12 +24,12 @@ The goal is to identify the correct clothing in the image.
 
 ## Notebooks
 
-### Other Classification Algorithms (Logistic Regression, KNN, Random Forests)
+#### Other Classification Algorithms (Logistic Regression, KNN, Random Forests)
 Logistic Regression, K-Nearest Neighbors, Random Forests on the fashion MNIST images. <br>
 
-### Feedforward Neural Network
+#### Feedforward Neural Network
 
-### Convolutional Neural Network
+#### Convolutional Neural Network
 A convolutional neural network on the fashion MNIST images.
 - [Tensorflow Convolutional Neural Network](https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb) <br>
 
