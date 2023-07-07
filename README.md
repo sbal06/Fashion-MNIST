@@ -4,7 +4,7 @@ Welcome! This is where you will find different Python scripts (code) for the Fas
 # Dataset overview
 The Fashion MNIST contains 70000 images, which are divided into the training and testing sets. The training set contains 60000 images and the testing set contains 10000 images. Each example is a 28x28 grayscale image associated from one of the ten classes below:
 
-<p align = "center">
+<p align="center">
 |      Clothing     |
 |------------------  |
 | 0 T-shirt/top <br>  |
@@ -18,6 +18,7 @@ The Fashion MNIST contains 70000 images, which are divided into the training and
 | 8 Bag <br>        |
 | 9 Ankle boot <br>  |
 </p>
+
 The goal is to identify the correct clothing in the image.
 
 ![Plot-of-a-Subset-of-Images-from-the-Fashion-MNIST-Dataset-1024x768](https://github.com/sbal06/Fashion-MNIST/assets/101956177/019424d0-c197-4c04-9ed8-446ad9acf09e) <br>
