@@ -39,7 +39,7 @@ A convolutional neural network on the fashion MNIST images.
 - [Anaconda](https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond)
 ### Jupyter Notebook or Google Coloboratory
 - [numpy](https://numpy.org/): `conda install numpy` <br>
--  [sklearn](https://scikit-learn.org/stable/): `conda install skikit-learn` <br>
+-  [sklearn](https://scikit-learn.org/stable/): `conda install scikit-learn` <br>
 - [matplotlib](https://matplotlib.org/): `conda install matplotlib` <br>
 - [seaborn](https://seaborn.pydata.org/): `conda install seaborn` <br>
 #### Make sure the Python and Numpy versions are compatible in Jupyter notebook.
