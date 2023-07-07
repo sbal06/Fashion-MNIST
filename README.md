@@ -24,9 +24,9 @@ The goal is to identify the correct clothing in the image.
 
 # Notebooks
 
-### Other Classification Algorithms (Logistic Regression, KNN, Random Forests)
-Logistic Regression, K-Nearest Neighbors, Random Forests on the fashion MNIST images. <br>
-Logistic Regression
+### Other Classification Algorithms ( KNN, Decision Trees)
+K-Nearest Neighbors, Decision Trees on the fashion MNIST images. <br>
+- [Other Classification Algorithms](https://github.com/sbal06/Fashion-MNIST/blob/main/ClassificationAlgorithms.ipynb) <br>
 
 ### Convolutional Neural Network
 A convolutional neural network on the fashion MNIST images.
