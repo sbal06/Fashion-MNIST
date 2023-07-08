@@ -41,8 +41,8 @@ For finding the optimal value of the number of nearest neighbors in the KNN algo
 The neural network had four Dense layers, with 1024, 512,  512, and 10 neurons, and each followed by BatchNormalization to normalize the outputs to have a mean of zero and variance of one. 
 
 Test accuracy for KNN: 83.95% <br>
-Test accuracy for Decision Trees: -78.39% <br>
-Test accuracy for Neural Network: -86% <br>
+Test accuracy for Decision Trees: 78.39% <br>
+Test accuracy for Neural Network: 86% <br>
 
 ### CNN
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -57,8 +57,8 @@ If we take a look at the confusion matrix,
 we can see that the model has diffculty in distinguishing between 'T-shirt/Top' and a 'Shirt.'
 
 
-Score for training accuracy: -90-91% <br>
-Scores for testing accuracy: -91.5% <br>
+Score for training accuracy: 90-91% <br>
+Scores for testing accuracy: 91.5% <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### Validation Accuracies for Basic Neural Network and CNN
