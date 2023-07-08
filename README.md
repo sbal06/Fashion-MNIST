@@ -41,8 +41,10 @@ For the Convolutional Neural Network, I used 3 Convolutional 2D layers, followed
 
 As shown in the training and testing results of the model during each epoch, the model is able to reach an accuracy of 90% after 4 epochs, but staggers around 91-92% for the remainder of testing. 
 
-If we take a look at the confusion matrix, <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/c84adbd5-254b-4216-b7cb-07f3eb9dc022" width = "500" height = "500">
-
+If we take a look at the confusion matrix, 
+<p align = "center" >
+<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/c84adbd5-254b-4216-b7cb-07f3eb9dc022" width = "400" height = "400">
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Dependencies
