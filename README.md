@@ -58,7 +58,7 @@ Scores for testing accuracy: -91.5% <br>
 Here are the training and testing accuracies for both the basic neural network and the CNN:
 <p align = "center" >
 <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/bc67b0a0-e75c-48bc-9cf2-6e2a4167e66d" width = "400" height = "400">
-<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/bc67b0a0-e75c-48bc-9cf2-6e2a4167e66d" width = "400" height = "400">
+<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/dcec28df-e824-44c3-8e19-b73a94666f96" width = "400" height = "400">
 </p>
 
 
