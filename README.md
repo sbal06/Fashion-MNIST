@@ -1,5 +1,5 @@
 # Description
-Welcome! This is where you will find different Python scripts (code) for the Fashion MNIST dataset. The Fashion-MNIST dataset is a collection of images depicting different types of clothing items. You can learn more about the fashion MNIST dataset [here](https://www.tensorflow.org/datasets/catalog/fashion_mnist). The Fashion-MNIST dataset was introduced to serve as a replacement for the original [MNIST](https://www.kaggle.com/datasets/avnishnish/mnist-original) dataset, which was released in 1999. The originial MNIST dataset became overused due to many models achieving 99% accuracy with a simple acrhitecture and lack of noise in the training/testing samples. The Fashion-MNIST dataset was designed to provide a more challenging task for machine learning models to perform well on the testing data.
+This is where you will find different Python scripts (code) for the Fashion MNIST dataset. The Fashion-MNIST dataset is a collection of images depicting different types of clothing items. You can learn more about the fashion MNIST dataset [here](https://www.tensorflow.org/datasets/catalog/fashion_mnist). The Fashion-MNIST dataset was introduced to serve as a replacement for the original [MNIST](https://www.kaggle.com/datasets/avnishnish/mnist-original) dataset, which was released in 1999. The originial MNIST dataset became overused due to many models achieving 99% accuracy with a simple acrhitecture and lack of noise in the training/testing samples. The Fashion-MNIST dataset was designed to provide a more challenging task for machine learning models to perform well on the testing data.
 
 # Dataset overview
 The Fashion MNIST contains 70000 images, which are divided into the training and testing sets. The training set contains 60000 images and the testing set contains 10000 images. Each example is a 28x28 grayscale image associated from one of the ten classes below:
@@ -92,8 +92,6 @@ For more information, [watch](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
 
 # Contributions
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional scripts, feel free to submit a pull request.
-
-# License
 
 
 
