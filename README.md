@@ -45,6 +45,8 @@ If we take a look at the confusion matrix,
 <p align = "center" >
 <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/c84adbd5-254b-4216-b7cb-07f3eb9dc022" width = "400" height = "400">
 </p>
+we can see that the model has diffculty in distinguishing between 'T-shirt/Top' and a 'Shirt.'
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Dependencies
