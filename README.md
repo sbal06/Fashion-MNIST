@@ -35,6 +35,14 @@ A convolutional neural network on the fashion MNIST images.
 - [Tensorflow Convolutional Neural Network](https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb) <br>
 
 # Results
+### K-Nearest Neighbors, Decision Trees, Basic Neural Network 
+For finding the optimal value of the number of nearest neighbors in the KNN algorithm, I implemented a GridSearchCV to tune the KNN's hyperparameters in a certain range. <br>
+
+The neural network had four Dense layers, with 1024, 512,  512, and 10 neurons, and each followed by BatchNormalization to normalize the outputs to have a mean of zero and variance of one. 
+
+Test accuracy for KNN: 83.95% <br>
+Test accuracy for Decision Trees: -78.39% <br>
+Test accuracy for Neural Network: -86% <br>
 
 ### CNN
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +57,7 @@ If we take a look at the confusion matrix,
 we can see that the model has diffculty in distinguishing between 'T-shirt/Top' and a 'Shirt.'
 
 
-Score for training accuracy: -90-91%
+Score for training accuracy: -90-91% <br>
 Scores for testing accuracy: -91.5% <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -61,7 +69,7 @@ Here are the training and testing accuracies for both the basic neural network a
 <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/dcec28df-e824-44c3-8e19-b73a94666f96" width = "400" height = "400">
 </p>
 
- For the basic neural network (image on the right), the training and testing accuracies are relatively similar and increase (more or less) when the number of epochs is 20. 
+ For the basic neural network (image on the right), the training and testing accuracies are relatively similar and increase (more or less) when the number of epochs reaches 20. 
  
  However, even though the CNN (image on the left) produces a higher accuracy, the testing accuracy is always below the training accuracy, and changing the number of epochs in the CNN alters the testing accuracy.
 
@@ -86,6 +94,8 @@ For more information, [watch](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional scripts, feel free to submit a pull request.
 
 # License
+
+
 
 
 
