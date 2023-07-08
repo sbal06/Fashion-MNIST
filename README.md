@@ -61,7 +61,9 @@ Here are the training and testing accuracies for both the basic neural network a
 <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/dcec28df-e824-44c3-8e19-b73a94666f96" width = "400" height = "400">
 </p>
 
- For the basic neural network (image on the right), the training and testing accuracies are relatively similar and increase (more or less) when the number of epochs is 20. However, though the CNN (image on the left) produces a higher accuracy, the testing accuracy is always below the training accuracy, and changing the number of epochs in the CNN alters the testing accuracy.
+ For the basic neural network (image on the right), the training and testing accuracies are relatively similar and increase (more or less) when the number of epochs is 20. 
+ 
+ However, even though the CNN (image on the left) produces a higher accuracy, the testing accuracy is always below the training accuracy, and changing the number of epochs in the CNN alters the testing accuracy.
 
 
 # Dependencies
