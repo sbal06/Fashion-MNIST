@@ -35,6 +35,7 @@ A convolutional neural network on the fashion MNIST images.
 - [Tensorflow Convolutional Neural Network](https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb) <br>
 
 # Results
+
 ### CNN
 -----------------------------------------------------------------------------------------------------------------------------------------
 For the Convolutional Neural Network, I used 3 Convolutional 2D layers, followed by Batch Normalization after the first and third layers to normalize the inputs to the MaxPooling layer. For the neural network, I used two Dense layers followed by Batch Normalization.
@@ -48,7 +49,20 @@ If we take a look at the confusion matrix,
 we can see that the model has diffculty in distinguishing between 'T-shirt/Top' and a 'Shirt.'
 
 
+Score for training accuracy: -90-91%
+Scores for testing accuracy: -91.5% <br>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
+# Validation Accuracies for Basic Neural Network and CNN
+
+Here are the training and testing accuracies for both the basic neural network and the CNN:
+<p align = "center" >
+<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/bc67b0a0-e75c-48bc-9cf2-6e2a4167e66d" width = "400" height = "400">
+<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/bc67b0a0-e75c-48bc-9cf2-6e2a4167e66d" width = "400" height = "400">
+</p>
+
+
+
 # Dependencies
 ### Python distribution
 - [Anaconda](https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond)
