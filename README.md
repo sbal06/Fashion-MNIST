@@ -104,7 +104,7 @@ Remember to replace the "Name you choose" with your preferred name for the virtu
 
 ### For deep learning models
 For more information, [watch](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
-- [Tensorflow](https://www.tensorflow.org/) `conda install tensorflow -gpu` <br>
+- [Tensorflow](https://www.tensorflow.org/) `conda install tensorflow` <br>
 - [Keras](https://keras.io/)  <br>
 
 
