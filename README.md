@@ -84,9 +84,9 @@ Follow these steps to set up the project and install the required dependencies:
 4. **Create a virtual environment** (optional): `python -m venv "Name you choose"`
 5. **Activate the virtual environment**:
     - On macOS and Linux
-      `source "Name you choose"/bin/activate
+      `source "Name you choose"/bin/activate'
     - On Windows
-      `.\"Name you choose"/bin/activate'
+      `.\"Name you choose"/bin/activate`
       
 6. **Install the project Dependencies located below.**
 
