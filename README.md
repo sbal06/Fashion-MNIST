@@ -92,7 +92,7 @@ Follow these steps to set up the project and install the required dependencies:
 
 Remember to replace the "Name you choose" with your preferred name for the virtual environment. Learn more about virtual environments [here](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/).
 
-# Dependencies
+## Dependencies
 ### Python distribution
 - [Anaconda](https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond)
 ### Jupyter Notebook
