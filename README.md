@@ -103,7 +103,7 @@ Remember to replace the "Name you choose" with your preferred name for the virtu
 #### Make sure the Python and Numpy versions are compatible in Jupyter notebook.
 
 ### For deep learning models
-Highly recommend. For more information, please watch [here](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
+It is probable to run into errors installing. If so, please watch [here](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
 - [Tensorflow](https://www.tensorflow.org/) `conda install tensorflow` <br>
 - [Keras](https://keras.io/)  <br>
 
