@@ -26,11 +26,11 @@ The goal is to identify the correct clothing in the image.
 
 # Notebooks
 
-### Other Classification Algorithms ( KNN, Decision Trees)
+### Other Classification Algorithms (ClassificationAlgorithms.ipynb)
 K-Nearest Neighbors, Decision Trees on the fashion MNIST images. <br>
 - [Other Classification Algorithms](https://github.com/sbal06/Fashion-MNIST/blob/main/ClassificationAlgorithms.ipynb) <br>
 
-### Convolutional Neural Network
+### Convolutional Neural Network (FashionMNISTDataSet.ipynb)
 A convolutional neural network on the fashion MNIST images.
 - [Tensorflow Convolutional Neural Network](https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb) <br>
 
@@ -95,6 +95,8 @@ Remember to replace the "Name you choose" with your preferred name for the virtu
 ## Dependencies
 ### Python distribution
 - [Anaconda](https://www.anaconda.com/blog/upcoming-releases-anaconda-distribution-2023-03-and-beyond)
+### Google Colaboratory
+Google Colab is cloud-based, and you get automatic-version control; there is no need to download or install any packages.
 ### Jupyter Notebook
 - [numpy](https://numpy.org/): `conda install numpy` <br>
 -  [sklearn](https://scikit-learn.org/stable/): `conda install scikit-learn` <br>
