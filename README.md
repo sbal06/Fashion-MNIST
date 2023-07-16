@@ -81,7 +81,7 @@ Follow these steps to set up the project and install the required dependencies:
 1. **Open the CMD (Command Prompt) on your computer**
 2.  **Clone the repository**: `git clone https://github.com/sbal06/Fashion-MNIST.git`
 3. **Change into the project directory**:  `cd Fashion-MNIST`
-4. **Create a virtual environment** (optional): `python -m venv "Name you choose"`
+4. **Create a virtual environment** (optional): `python -m venv "name"`
 5. **Activate the virtual environment**:
     - On macOS and Linux
       `source "Name you choose"/bin/activate`
@@ -90,7 +90,7 @@ Follow these steps to set up the project and install the required dependencies:
       
 6. **Install the project Dependencies located below.**
 
-Remember to replace the "Name you choose" with your preferred name for the virtual environment. Learn more about virtual environments [here](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/).
+Remember to replace the "name" with your preferred name for the virtual environment. Learn more about virtual environments [here](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/).
 
 ## Dependencies
 ### Python distribution
