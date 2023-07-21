@@ -20,10 +20,8 @@ The Fashion MNIST contains 70000 images, which are divided into the training and
 
 
 The goal is to identify the correct clothing in the image.
-
 ![250211420-019424d0-c197-4c04-9ed8-446ad9acf09e](https://github.com/sbal06/Fashion-MNIST/assets/101956177/276bbd93-02ae-4491-98d5-b11e3462238d)
 <br>
-
 
 # Notebooks
 
@@ -53,7 +51,7 @@ As shown in the training and testing results of the model during each epoch, the
 
 If we take a look at the confusion matrix, 
 <p align = "center" >
-<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/c84adbd5-254b-4216-b7cb-07f3eb9dc022" width = "400" height = "400">
+<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/cd98406a-68a1-48ba-a622-325ed480d60e" width = "400" height = "400">
 </p>
 we can see that the model has diffculty in distinguishing between 'T-shirt/Top' and a 'Shirt.'
 
@@ -66,8 +64,8 @@ Scores for testing accuracy: 91.5% <br>
 
 Here are the training and testing accuracies for both the basic neural network and the CNN, respectively:
 <p align = "center" >
- <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/dcec28df-e824-44c3-8e19-b73a94666f96" width = "400" height = "400">
-<image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/bc67b0a0-e75c-48bc-9cf2-6e2a4167e66d" width = "400" height = "400">
+ <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/997e764b-73fc-4ede-9298-46db2c96833c" width = "400" height = "400">
+ <image src = "https://github.com/sbal06/Fashion-MNIST/assets/101956177/86d1ed74-87ce-403b-9a92-7eb2a513b653" width = "400" height = "400">
 </p>
 
  For the basic neural network (image on the left), the training and testing accuracies are relatively similar and increase (more or less) when the number of epochs reaches 20. 
