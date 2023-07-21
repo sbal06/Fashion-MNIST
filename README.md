@@ -21,7 +21,7 @@ The Fashion MNIST contains 70000 images, which are divided into the training and
 
 The goal is to identify the correct clothing in the image.
 
-![Plot-of-a-Subset-of-Images-from-the-Fashion-MNIST-Dataset-1024x768](https://github.com/sbal06/Fashion-MNIST/assets/101956177/019424d0-c197-4c04-9ed8-446ad9acf09e) <br>
+![Plot-of-a-Subset-of-Images-from-the-Fashion-MNIST-Dataset-1024x768](https://github.com/sbal06/Fashion-MNIST/assets/101956177/019424d0-c197-4c04-9ed8-446ad9acf09e.png) <br>
 
 
 # Notebooks
