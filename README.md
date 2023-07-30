@@ -33,6 +33,10 @@ K-Nearest Neighbors, Decision Trees on the fashion MNIST images. <br>
 A convolutional neural network on the fashion MNIST images.
 - [Tensorflow Convolutional Neural Network](https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb) <br>
 
+### Fashion-MNIST webapp image input (InputImage.ipynb)
+This is the code I used to take an image, and convert it to grayscale for the Fashion-MNIST Web App I created (different repository).
+-[ImageInput] (
+
 # Results
 ### K-Nearest Neighbors, Decision Trees, Basic Neural Network 
 For finding the optimal value of the number of nearest neighbors in the KNN algorithm, I implemented a GridSearchCV to tune the KNN's hyperparameters in a certain range. <br>
