@@ -33,7 +33,7 @@ K-Nearest Neighbors, Decision Trees on the fashion MNIST images. <br>
 A convolutional neural network on the fashion MNIST images.
 - [Tensorflow Convolutional Neural Network](https://github.com/sbal06/Fashion-MNIST/blob/main/FashionMNISTDataSet.ipynb) <br>
 
-### Fashion-MNIST webapp image input (InputImage.ipynb)
+### Fashion-MNIST webapp Input Image (InputImage.ipynb)
 This is the code I used to take an image, and convert it to grayscale for the Fashion-MNIST Web App I created (in a different repository).
 - [ImageInput](https://github.com/sbal06/Fashion-MNIST/blob/main/InputImage.ipynb) <br>
 
