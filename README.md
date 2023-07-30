@@ -35,7 +35,7 @@ A convolutional neural network on the fashion MNIST images.
 
 ### Fashion-MNIST webapp image input (InputImage.ipynb)
 This is the code I used to take an image, and convert it to grayscale for the Fashion-MNIST Web App I created (different repository).
--[ImageInput] (
+-[ImageInput] (https://github.com/sbal06/Fashion-MNIST/blob/main/InputImage.ipynb) <br>
 
 # Results
 ### K-Nearest Neighbors, Decision Trees, Basic Neural Network 
