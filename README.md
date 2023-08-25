@@ -93,7 +93,7 @@ Follow these steps to set up the project and install the required dependencies:
       
 6. **Install the project Dependencies located below.**
 
-Remember to replace the "name" with your preferred name for the virtual environment. Learn more about virtual environments [here](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/).
+Remember to replace the "name" with your preferred name for the virtual environment. Learn more about virtual environments in this article [here](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/).
 
 ## Dependencies
 ### Python distribution
