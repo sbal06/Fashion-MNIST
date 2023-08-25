@@ -108,7 +108,7 @@ Google Colab is cloud-based, and you get automatic-version control; there is no 
 #### Make sure the Python and Numpy versions are compatible in Jupyter notebook.
 
 ### For deep learning models
-It is probable to run into errors installing. If so, please watch [here](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
+It is probable to run into errors while installing tensorflow. If so, please watch [here](https://www.youtube.com/watch?v=CrEl8QL8hsM) <br>
 - [Tensorflow](https://www.tensorflow.org/) `conda install tensorflow` <br>
 - [Keras](https://keras.io/)  <br>
 
